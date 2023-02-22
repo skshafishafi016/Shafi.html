@@ -248,8 +248,7 @@ nav img{
 	display: none;
 }
 @media(max-width:900px){
-	li{color:green !important}
-	.icon_class{
+/* 	.icon_class{
 		display: block;
 	}
 		.text-box h1{
@@ -266,7 +265,7 @@ nav img{
 			height: 100vh;
 			top: 0px;
 			right: 0px;
-		}
+		} */
 
 
 }
