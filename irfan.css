@@ -248,7 +248,7 @@ nav img{
 	display: none;
 }
 @media(max-width:900px){
-	body{background:green;}
+	li{color:green !important}
 	.icon_class{
 		display: block;
 	}
